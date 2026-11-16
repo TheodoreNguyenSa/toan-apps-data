@@ -257,7 +257,10 @@
         "en": "Crypto & market charts on your TV: BTC, Altcoin/BTC, gold, SPX, ASX 200, candlesticks with MA/RSI/MACD and a top-20 watchlist. In Vietnamese and English, USD/AUD/VND."
       },
       "code": "1258763",
-      "shots": [],
+      "shots": [
+        "shots/tncointv-1.jpg",
+        "shots/tncointv-2.jpg"
+      ],
       "ver": "v1.0.0",
       "size": "0.3 MB",
       "apk": "https://github.com/TheodoreNguyenSa/tncointv/releases/download/v1.0.0/TNCoinTV-ToanNguyen-v1.0.0.apk"
