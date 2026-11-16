@@ -1,0 +1,266 @@
+{
+  "updated_at": "2026-11-17",
+  "apps": [
+    {
+      "slug": "launcher",
+      "repo": "cleanyourtv-toan",
+      "name": {
+        "vi": "Launcher Toan Nguyen",
+        "en": "Toan Nguyen Launcher"
+      },
+      "sub": {
+        "vi": "CleanYourTV Launcher",
+        "en": "CleanYourTV Launcher"
+      },
+      "desc": {
+        "vi": "Màn hình chính thay thế cho Android TV: thẻ thời tiết Úc, lịch âm Việt Nam, đồng hồ và nút dọn app chạy nền.",
+        "en": "A replacement home screen for Android TV: Australian weather cards, Vietnamese lunar calendar, clock and a button to close background apps."
+      },
+      "code": "1238220",
+      "shots": [
+        "shots/launcher-1.jpg",
+        "shots/launcher-2.jpg"
+      ],
+      "ver": "v2.6-toan4",
+      "size": "1.6 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/cleanyourtv-toan/releases/download/v2.6-toan4/CleanYourTV-ToanNguyen-v2.6-toan4.apk"
+    },
+    {
+      "slug": "bangtin",
+      "repo": "bang-tin-dashboard",
+      "name": {
+        "vi": "Bảng Tin",
+        "en": "Bang Tin Dashboard"
+      },
+      "sub": {
+        "vi": "TV Dashboard",
+        "en": "TV Dashboard"
+      },
+      "desc": {
+        "vi": "Bảng tin trên TV: thời tiết và chất lượng không khí nơi bạn ở, lịch âm, giá vàng, giá xăng. 4 ngôn ngữ Anh / Pháp / Việt / Trung.",
+        "en": "A TV dashboard: local weather and air quality, Vietnamese lunar calendar, gold and fuel prices. In English, French, Vietnamese and Chinese."
+      },
+      "code": "",
+      "shots": [
+        "shots/bangtin-1.jpg",
+        "shots/bangtin-2.jpg"
+      ],
+      "ver": "v1.1.0",
+      "size": "0.1 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/bang-tin-dashboard/releases/download/v1.1.0/BangTin-ToanNguyen-v1.1.0.apk"
+    },
+    {
+      "slug": "quiz",
+      "repo": "aussie-school-quiz",
+      "name": {
+        "vi": "Aussie School Quiz",
+        "en": "Aussie School Quiz"
+      },
+      "sub": {
+        "vi": "Luyện tập lớp 1–12 (Úc)",
+        "en": "Practice for Years 1–12 (Australia)"
+      },
+      "desc": {
+        "vi": "Câu hỏi luyện tập cho học sinh Úc từ lớp 1 đến 12, mọi môn, chơi offline. Có chế độ tìm “lỗ hổng kiến thức” để ôn đúng chỗ yếu.",
+        "en": "Practice questions for Australian students from Year 1 to Year 12, all subjects, fully offline. Includes a “Find My Gaps” mode that targets weak spots."
+      },
+      "code": "4245851",
+      "shots": [
+        "shots/quiz-1.jpg",
+        "shots/quiz-2.jpg"
+      ],
+      "ver": "v1.4.0",
+      "size": "2.5 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/aussie-school-quiz/releases/download/v1.4.0/SchoolQuiz-ToanNguyen-v1.4.0.apk"
+    },
+    {
+      "slug": "citizenship",
+      "repo": "aussie-citizenship-test",
+      "name": {
+        "vi": "Luyện Thi Quốc Tịch Úc",
+        "en": "Australian Citizenship Test Practice"
+      },
+      "sub": {
+        "vi": "Australian Citizenship Test",
+        "en": "Based on Our Common Bond"
+      },
+      "desc": {
+        "vi": "1.318 câu hỏi theo tài liệu Our Common Bond: luyện theo chủ đề, thi thử 20 câu / 45 phút và phần Giá trị Úc.",
+        "en": "1,318 questions based on Our Common Bond: study by topic, take a 20-question / 45-minute mock test, and master the Australian Values section."
+      },
+      "code": "9916709",
+      "shots": [
+        "shots/citizenship-1.jpg",
+        "shots/citizenship-2.jpg"
+      ],
+      "ver": "v1.2.0",
+      "size": "2.9 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/aussie-citizenship-test/releases/download/v1.2.0/CitizenshipTest-ToanNguyen-v1.2.0.apk"
+    },
+    {
+      "slug": "chess-xiangqi",
+      "repo": "chess-xiangqi-tv",
+      "name": {
+        "vi": "Cờ Vua & Cờ Tướng TV",
+        "en": "Chess & Xiangqi TV"
+      },
+      "sub": {
+        "vi": "Chess & Xiangqi TV",
+        "en": "Chess & Chinese Chess"
+      },
+      "desc": {
+        "vi": "Đấu với máy 5 cấp độ (offline), hoặc 2 người chơi bằng điện thoại quét QR. Thư viện thế cờ kinh điển giải thích bằng tiếng Việt.",
+        "en": "Play against the computer at 5 levels (offline), or two players join by phone with a QR code. A library of classic positions explained in Vietnamese."
+      },
+      "code": "7141101",
+      "shots": [
+        "shots/chess-1.jpg",
+        "shots/chess-2.jpg"
+      ],
+      "ver": "v1.3.0",
+      "size": "1.5 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/chess-xiangqi-tv/releases/download/v1.3.0/ChessXiangqi-ToanNguyen-v1.3.0.apk"
+    },
+    {
+      "slug": "gamehub",
+      "repo": "game-hub",
+      "name": {
+        "vi": "Game Hub",
+        "en": "Game Hub"
+      },
+      "sub": {
+        "vi": "4 game trong 1 app",
+        "en": "4 games in 1 app"
+      },
+      "desc": {
+        "vi": "4 game trong 1 app: Dò mìn (Minesweeper), 2048, Match-3 và Runner người que. Chơi bằng remote TV.",
+        "en": "Four games in one app: Minesweeper, 2048, Match-3 and a stick-figure Runner. Play with your TV remote."
+      },
+      "code": "6243679",
+      "shots": [
+        "shots/gamehub-1.jpg",
+        "shots/gamehub-2.jpg"
+      ],
+      "ver": "v1.0.0",
+      "size": "1.7 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/game-hub/releases/download/v1.0.0/GameHub-ToanNguyen-v1.0.0.apk"
+    },
+    {
+      "slug": "mbti",
+      "repo": "mbti-test",
+      "name": {
+        "vi": "MBTI Test",
+        "en": "MBTI Test"
+      },
+      "sub": {
+        "vi": "Trắc nghiệm tính cách",
+        "en": "Personality Test"
+      },
+      "desc": {
+        "vi": "Trắc nghiệm tính cách MBTI trên TV: kết quả 16 nhóm tính cách kèm mô tả. 4 ngôn ngữ Anh / Pháp / Việt / Trung. Chỉ mang tính tham khảo, giải trí.",
+        "en": "The MBTI personality test on your TV: results for all 16 personality types with descriptions. In English, French, Vietnamese and Chinese. For fun and self-reflection only."
+      },
+      "code": "4520839",
+      "shots": [
+        "shots/mbti-1.jpg",
+        "shots/mbti-2.jpg"
+      ],
+      "ver": "v1.2.0",
+      "size": "1.7 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/mbti-test/releases/download/v1.2.0/MBTITest-ToanNguyen-v1.2.0.apk"
+    },
+    {
+      "slug": "battu",
+      "repo": "bat-tu",
+      "name": {
+        "vi": "Bát Tự",
+        "en": "Bat Tu — Four Pillars"
+      },
+      "sub": {
+        "vi": "Luận giải tứ trụ",
+        "en": "Four Pillars Reading"
+      },
+      "desc": {
+        "vi": "Xem bát tự / tứ trụ trên TV: nhập ngày giờ sinh bằng bàn phím Telex, xem ngày tốt và vận hạn. Song ngữ Việt / Anh.",
+        "en": "Four Pillars (BaZi) readings on your TV: enter birth details with a Telex keyboard, check good days and fortune cycles. In Vietnamese and English."
+      },
+      "code": "3455585",
+      "shots": [
+        "shots/battu-1.jpg",
+        "shots/battu-2.jpg"
+      ],
+      "ver": "v1.1.1",
+      "size": "1.5 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/bat-tu/releases/download/v1.1.1/BatTu-ToanNguyen-v1.1.1.apk"
+    },
+    {
+      "slug": "tracnghiem",
+      "repo": "trac-nghiem",
+      "name": {
+        "vi": "Trắc Nghiệm",
+        "en": "Trac Nghiem — Vietnamese Trivia"
+      },
+      "sub": {
+        "vi": "Đố vui tiếng Việt",
+        "en": "Vietnamese Trivia"
+      },
+      "desc": {
+        "vi": "Đố vui tiếng Việt trên TV: 10 chủ đề, mỗi chủ đề 100 câu hỏi. Chơi cả nhà bằng remote.",
+        "en": "Vietnamese trivia on your TV: 10 topics with 100 questions each. Fun for the whole family with just the remote."
+      },
+      "code": "",
+      "shots": [
+        "shots/tracnghiem-1.jpg",
+        "shots/tracnghiem-2.jpg"
+      ],
+      "ver": "v1.1.1",
+      "size": "1.7 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/trac-nghiem/releases/download/v1.1.1/TracNghiem-ToanNguyen-v1.1.1.apk"
+    },
+    {
+      "slug": "kaprekar",
+      "repo": "kaprekar-tv",
+      "name": {
+        "vi": "Kaprekar 6174",
+        "en": "Kaprekar 6174"
+      },
+      "sub": {
+        "vi": "Hằng số 6174",
+        "en": "The 6174 Constant"
+      },
+      "desc": {
+        "vi": "Khám phá hằng số bí ẩn 6174 của Kaprekar: chọn 1 số 4 chữ số bất kỳ và xem nó hội tụ về 6174 như thế nào, ngay trên TV.",
+        "en": "Explore Kaprekar's mysterious 6174 constant: pick any 4-digit number and watch it converge to 6174, right on your TV."
+      },
+      "code": "",
+      "shots": [
+        "shots/kaprekar-1.jpg",
+        "shots/kaprekar-2.jpg"
+      ],
+      "ver": "v1.0.0",
+      "size": "0.6 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/kaprekar-tv/releases/download/v1.0.0/Kaprekar6174-ToanNguyen-v1.0.0.apk"
+    },
+    {
+      "slug": "tncointv",
+      "repo": "tncointv",
+      "name": {
+        "vi": "TNCoinTV",
+        "en": "TNCoinTV"
+      },
+      "sub": {
+        "vi": "Biểu đồ Crypto & chứng khoán",
+        "en": "Crypto & market charts"
+      },
+      "desc": {
+        "vi": "Biểu đồ Crypto & chứng khoán trên TV: BTC, Altcoin/BTC, vàng, SPX, ASX 200, nến + MA/RSI/MACD, watchlist top 20. Song ngữ Việt/Anh, tiền tệ USD/AUD/VND.",
+        "en": "Crypto & market charts on your TV: BTC, Altcoin/BTC, gold, SPX, ASX 200, candlesticks with MA/RSI/MACD and a top-20 watchlist. In Vietnamese and English, USD/AUD/VND."
+      },
+      "code": "1258763",
+      "shots": [],
+      "ver": "v1.0.0",
+      "size": "0.3 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/tncointv/releases/download/v1.0.0/TNCoinTV-ToanNguyen-v1.0.0.apk"
+    }
+  ]
+}
