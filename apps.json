@@ -16,14 +16,14 @@
         "vi": "Màn hình chính thay thế cho Android TV: thẻ thời tiết Úc, lịch âm Việt Nam, đồng hồ và nút dọn app chạy nền.",
         "en": "A replacement home screen for Android TV: Australian weather cards, Vietnamese lunar calendar, clock and a button to close background apps."
       },
-      "code": "1238220",
+      "code": "1111249",
       "shots": [
         "shots/launcher-1.jpg",
         "shots/launcher-2.jpg"
       ],
-      "ver": "v2.6-toan4",
-      "size": "1.6 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/cleanyourtv-toan/releases/download/v2.6-toan4/CleanYourTV-ToanNguyen-v2.6-toan4.apk"
+      "ver": "v2.7",
+      "size": "1.8 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/cleanyourtv-toan/releases/download/v2.7/CleanYourTV-ToanNguyen-v2.7.apk"
     },
     {
       "slug": "bangtin",
