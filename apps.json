@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17",
+  "updated_at": "2026-11-18",
   "apps": [
     {
       "slug": "launcher",
@@ -256,14 +256,14 @@
         "vi": "Biểu đồ Crypto & chứng khoán trên TV: BTC, Altcoin/BTC, vàng, SPX, ASX 200, nến + MA/RSI/MACD, watchlist top 20. Song ngữ Việt/Anh, tiền tệ USD/AUD/VND.",
         "en": "Crypto & market charts on your TV: BTC, Altcoin/BTC, gold, SPX, ASX 200, candlesticks with MA/RSI/MACD and a top-20 watchlist. In Vietnamese and English, USD/AUD/VND."
       },
-      "code": "1258763",
+      "code": "1435616",
       "shots": [
         "shots/tncointv-1.jpg",
         "shots/tncointv-2.jpg"
       ],
-      "ver": "v1.0.0",
+      "ver": "v1.0.4",
       "size": "0.3 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/tncointv/releases/download/v1.0.0/TNCoinTV-ToanNguyen-v1.0.0.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/tncointv/releases/download/v1.0.4/TNCoinTV-ToanNguyen-v1.0.4.apk"
     }
   ]
 }
