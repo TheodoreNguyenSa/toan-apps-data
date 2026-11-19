@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18",
+  "updated_at": "2026-11-19",
   "apps": [
     {
       "slug": "launcher",
@@ -16,14 +16,14 @@
         "vi": "Màn hình chính thay thế cho Android TV: thẻ thời tiết Úc, lịch âm Việt Nam, đồng hồ và nút dọn app chạy nền.",
         "en": "A replacement home screen for Android TV: Australian weather cards, Vietnamese lunar calendar, clock and a button to close background apps."
       },
-      "code": "1111249",
+      "code": "4163643",
       "shots": [
         "shots/launcher-1.jpg",
         "shots/launcher-2.jpg"
       ],
-      "ver": "v2.7",
+      "ver": "v2.7.1",
       "size": "1.8 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/cleanyourtv-toan/releases/download/v2.7/CleanYourTV-ToanNguyen-v2.7.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/cleanyourtv-toan/releases/download/v2.7.1/CleanYourTV-ToanNguyen-v2.7.1.apk"
     },
     {
       "slug": "bangtin",
@@ -40,14 +40,14 @@
         "vi": "Bảng tin trên TV: thời tiết và chất lượng không khí nơi bạn ở, lịch âm, giá vàng, giá xăng. 4 ngôn ngữ Anh / Pháp / Việt / Trung.",
         "en": "A TV dashboard: local weather and air quality, Vietnamese lunar calendar, gold and fuel prices. In English, French, Vietnamese and Chinese."
       },
-      "code": "",
+      "code": "6290848",
       "shots": [
         "shots/bangtin-1.jpg",
         "shots/bangtin-2.jpg"
       ],
-      "ver": "v1.1.0",
-      "size": "0.1 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/bang-tin-dashboard/releases/download/v1.1.0/BangTin-ToanNguyen-v1.1.0.apk"
+      "ver": "v1.1.3",
+      "size": "0.2 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/bang-tin-dashboard/releases/download/v1.1.3/BangTin-ToanNguyen-v1.1.3.apk"
     },
     {
       "slug": "quiz",
@@ -64,14 +64,14 @@
         "vi": "Câu hỏi luyện tập cho học sinh Úc từ lớp 1 đến 12, mọi môn, chơi offline. Có chế độ tìm “lỗ hổng kiến thức” để ôn đúng chỗ yếu.",
         "en": "Practice questions for Australian students from Year 1 to Year 12, all subjects, fully offline. Includes a “Find My Gaps” mode that targets weak spots."
       },
-      "code": "4245851",
+      "code": "6654971",
       "shots": [
         "shots/quiz-1.jpg",
         "shots/quiz-2.jpg"
       ],
-      "ver": "v1.4.0",
+      "ver": "v1.4.1",
       "size": "2.5 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/aussie-school-quiz/releases/download/v1.4.0/SchoolQuiz-ToanNguyen-v1.4.0.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/aussie-school-quiz/releases/download/v1.4.1/SchoolQuiz-ToanNguyen-v1.4.1.apk"
     },
     {
       "slug": "citizenship",
@@ -88,14 +88,14 @@
         "vi": "1.318 câu hỏi theo tài liệu Our Common Bond: luyện theo chủ đề, thi thử 20 câu / 45 phút và phần Giá trị Úc.",
         "en": "1,318 questions based on Our Common Bond: study by topic, take a 20-question / 45-minute mock test, and master the Australian Values section."
       },
-      "code": "9916709",
+      "code": "9886357",
       "shots": [
         "shots/citizenship-1.jpg",
         "shots/citizenship-2.jpg"
       ],
-      "ver": "v1.2.0",
+      "ver": "v1.2.1",
       "size": "2.9 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/aussie-citizenship-test/releases/download/v1.2.0/CitizenshipTest-ToanNguyen-v1.2.0.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/aussie-citizenship-test/releases/download/v1.2.1/CitizenshipTest-ToanNguyen-v1.2.1.apk"
     },
     {
       "slug": "chess-xiangqi",
@@ -136,14 +136,35 @@
         "vi": "4 game trong 1 app: Dò mìn (Minesweeper), 2048, Match-3 và Runner người que. Chơi bằng remote TV.",
         "en": "Four games in one app: Minesweeper, 2048, Match-3 and a stick-figure Runner. Play with your TV remote."
       },
-      "code": "6243679",
+      "code": "3292493",
       "shots": [
         "shots/gamehub-1.jpg",
         "shots/gamehub-2.jpg"
       ],
+      "ver": "v2.1.1",
+      "size": "1.8 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/game-hub/releases/download/v2.1.1/GameHub-ToanNguyen-v2.1.1.apk"
+    },
+    {
+      "slug": "minesweeper",
+      "repo": "minesweeper",
+      "name": {
+        "vi": "Dò Mìn",
+        "en": "Minesweeper"
+      },
+      "sub": {
+        "vi": "Dò mìn cổ điển",
+        "en": "Classic Minesweeper"
+      },
+      "desc": {
+        "vi": "Dò mìn cổ điển trên TV: 3 cấp độ Dễ / Vừa / Khó, ô đầu tiên luôn an toàn, lưu kỷ lục thời gian từng cấp độ. Chơi bằng remote.",
+        "en": "Classic Minesweeper on your TV: 3 levels (Easy / Medium / Expert), first click is always safe, best time saved per level. Play with your TV remote."
+      },
+      "code": "3128733",
+      "shots": [],
       "ver": "v1.0.0",
       "size": "1.7 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/game-hub/releases/download/v1.0.0/GameHub-ToanNguyen-v1.0.0.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/minesweeper/releases/download/v1.0.0/Minesweeper-ToanNguyen-v1.0.0.apk"
     },
     {
       "slug": "mbti",
@@ -160,14 +181,14 @@
         "vi": "Trắc nghiệm tính cách MBTI trên TV: kết quả 16 nhóm tính cách kèm mô tả. 4 ngôn ngữ Anh / Pháp / Việt / Trung. Chỉ mang tính tham khảo, giải trí.",
         "en": "The MBTI personality test on your TV: results for all 16 personality types with descriptions. In English, French, Vietnamese and Chinese. For fun and self-reflection only."
       },
-      "code": "4520839",
+      "code": "7807230",
       "shots": [
         "shots/mbti-1.jpg",
         "shots/mbti-2.jpg"
       ],
-      "ver": "v1.2.0",
+      "ver": "v1.2.1",
       "size": "1.7 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/mbti-test/releases/download/v1.2.0/MBTITest-ToanNguyen-v1.2.0.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/mbti-test/releases/download/v1.2.1/MBTITest-ToanNguyen-v1.2.1.apk"
     },
     {
       "slug": "battu",
@@ -184,14 +205,14 @@
         "vi": "Xem bát tự / tứ trụ trên TV: nhập ngày giờ sinh bằng bàn phím Telex, xem ngày tốt và vận hạn. Song ngữ Việt / Anh.",
         "en": "Four Pillars (BaZi) readings on your TV: enter birth details with a Telex keyboard, check good days and fortune cycles. In Vietnamese and English."
       },
-      "code": "3455585",
+      "code": "7648933",
       "shots": [
         "shots/battu-1.jpg",
         "shots/battu-2.jpg"
       ],
-      "ver": "v1.1.1",
+      "ver": "v1.1.2",
       "size": "1.5 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/bat-tu/releases/download/v1.1.1/BatTu-ToanNguyen-v1.1.1.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/bat-tu/releases/download/v1.1.2/BatTu-ToanNguyen-v1.1.2.apk"
     },
     {
       "slug": "tracnghiem",
@@ -208,14 +229,14 @@
         "vi": "Đố vui tiếng Việt trên TV: 10 chủ đề, mỗi chủ đề 100 câu hỏi. Chơi cả nhà bằng remote.",
         "en": "Vietnamese trivia on your TV: 10 topics with 100 questions each. Fun for the whole family with just the remote."
       },
-      "code": "",
+      "code": "9538347",
       "shots": [
         "shots/tracnghiem-1.jpg",
         "shots/tracnghiem-2.jpg"
       ],
-      "ver": "v1.1.1",
-      "size": "1.7 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/trac-nghiem/releases/download/v1.1.1/TracNghiem-ToanNguyen-v1.1.1.apk"
+      "ver": "v1.1.4",
+      "size": "1.8 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/trac-nghiem/releases/download/v1.1.4/TracNghiem-ToanNguyen-v1.1.4.apk"
     },
     {
       "slug": "kaprekar",
@@ -232,14 +253,14 @@
         "vi": "Khám phá hằng số bí ẩn 6174 của Kaprekar: chọn 1 số 4 chữ số bất kỳ và xem nó hội tụ về 6174 như thế nào, ngay trên TV.",
         "en": "Explore Kaprekar's mysterious 6174 constant: pick any 4-digit number and watch it converge to 6174, right on your TV."
       },
-      "code": "",
+      "code": "7478442",
       "shots": [
         "shots/kaprekar-1.jpg",
         "shots/kaprekar-2.jpg"
       ],
-      "ver": "v1.0.0",
+      "ver": "v1.0.1",
       "size": "0.6 MB",
-      "apk": "https://github.com/TheodoreNguyenSa/kaprekar-tv/releases/download/v1.0.0/Kaprekar6174-ToanNguyen-v1.0.0.apk"
+      "apk": "https://github.com/TheodoreNguyenSa/kaprekar-tv/releases/download/v1.0.1/Kaprekar6174-ToanNguyen-v1.0.1.apk"
     },
     {
       "slug": "tncointv",
