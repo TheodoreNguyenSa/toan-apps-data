@@ -167,6 +167,27 @@
       "apk": "https://github.com/TheodoreNguyenSa/minesweeper/releases/download/v1.0.0/Minesweeper-ToanNguyen-v1.0.0.apk"
     },
     {
+      "slug": "karaoke",
+      "repo": "karaoke-tv",
+      "name": {
+        "vi": "Karaoke Gia Đình",
+        "en": "Karaoke Gia Đình — Family Karaoke"
+      },
+      "sub": {
+        "vi": "Hát karaoke cùng cả nhà",
+        "en": "Family karaoke on your TV"
+      },
+      "desc": {
+        "vi": "Phòng karaoke trên TV: thư viện 628 bài chọn sẵn, hàng chờ có tên người hát, chế độ Party — khách quét QR bằng điện thoại để chọn bài, không cần cài app.",
+        "en": "A karaoke room on your TV: 628 curated songs, a queue with each singer's name, and Party Mode — guests scan a QR on their phone to pick songs, no app install needed."
+      },
+      "code": "1373226",
+      "shots": [],
+      "ver": "v1.0.8",
+      "size": "1.5 MB",
+      "apk": "https://github.com/TheodoreNguyenSa/karaoke-tv/releases/download/v1.0.8/KaraokeGiaDinh-ToanNguyen-v1.0.8.apk"
+    },
+    {
       "slug": "mbti",
       "repo": "mbti-test",
       "name": {
