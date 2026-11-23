@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-23T07:38:03+10:30",
+  "checked_at": "2026-11-24T07:38:05+10:30",
   "totals": {
     "aussie-citizenship-test": 16,
     "aussie-school-quiz": 46,
     "bang-tin-dashboard": 11,
     "bat-tu": 11,
     "chess-xiangqi-tv": 9,
-    "cleanyourtv-toan": 192,
+    "cleanyourtv-toan": 207,
     "game-hub": 15,
     "kaprekar-tv": 7,
     "mbti-test": 11,
     "tncointv": 7,
     "trac-nghiem": 9,
-    "all": 334
+    "all": 349
   },
   "note": "GitHub release download totals per app (all versions). Includes a few verification downloads by the assistant (see download-counts.json note). Updated daily by the 07:37 counts job."
 }
