@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-25T07:38:00+10:30",
+  "checked_at": "2026-11-26T07:38:00+10:30",
   "totals": {
-    "aussie-citizenship-test": 18,
-    "aussie-school-quiz": 46,
-    "bang-tin-dashboard": 11,
-    "bat-tu": 11,
-    "chess-xiangqi-tv": 9,
-    "cleanyourtv-toan": 221,
-    "game-hub": 15,
-    "kaprekar-tv": 7,
-    "mbti-test": 11,
-    "tncointv": 7,
-    "trac-nghiem": 9,
-    "all": 365
+    "aussie-citizenship-test": 19,
+    "aussie-school-quiz": 48,
+    "bang-tin-dashboard": 12,
+    "bat-tu": 12,
+    "chess-xiangqi-tv": 10,
+    "cleanyourtv-toan": 229,
+    "game-hub": 16,
+    "kaprekar-tv": 8,
+    "mbti-test": 12,
+    "tncointv": 8,
+    "trac-nghiem": 10,
+    "all": 384
   },
   "note": "GitHub release download totals per app (all versions). Includes a few verification downloads by the assistant (see download-counts.json note). Updated daily by the 07:37 counts job."
 }
